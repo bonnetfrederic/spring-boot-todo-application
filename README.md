@@ -6,7 +6,7 @@ built using:
 - H2 Database
 - Thymeleaf
 
-**This project is based on the the work from Wazoo
+**This project is based on the the work from Wazoo**
 
 **The original author walks through how to build this yourself on YouTube**: https://youtu.be/Hvuij8SOW8Q
 
